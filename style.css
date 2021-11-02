@@ -196,7 +196,8 @@ ul {
   line-height: 2.3;
 }
 .links li a:hover {
-  border-left: 1px solid rgb(7, 177, 72);
+  border-left: 1.5px solid rgb(7, 177, 72);
+  font-weight: bold;
 }
 /* footer */
 .footer {
